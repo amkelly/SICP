@@ -12,19 +12,9 @@ variable assignation:
 
 procedure definition:
 (define (name formalparamaters) body)
-
-
 (cond (predicate) (consequent expression)
       (else consequent ))
-      
-      
 (if (predicate) (consequent) (alternative))
-
-
 (and (expression) (expression) (expression))
-
-
 (or (expresission) (expression) (expression))
-
-
 (not (expression)) [true when expression is false]
