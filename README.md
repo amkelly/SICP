@@ -3,10 +3,12 @@
 
 ##General Notes:
 
-These notes and ex1.1, 1.2, and 1.3 predate this repository.
+* These notes and ex1.1, 1.2, and 1.3 predate this repository.
+
 
 variable assignation:
 (define name value)
+
 
 procedure definition:
 (define (name formalparamaters) body)
@@ -14,7 +16,15 @@ procedure definition:
 
 (cond (predicate) (consequent expression)
       (else consequent ))
+      
+      
 (if (predicate) (consequent) (alternative))
+
+
 (and (expression) (expression) (expression))
+
+
 (or (expresission) (expression) (expression))
+
+
 (not (expression)) [true when expression is false]
